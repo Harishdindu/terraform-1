@@ -12,7 +12,7 @@ This should launch a basic 3-tier infrastructure following:
 
 ![image](https://user-images.githubusercontent.com/43720925/124229196-265ed280-db05-11eb-8a32-2c7e8bb4d583.png)
 
-## How to deploy, prerequisites for this Assignment
+## How to deploy, prerequisites for this Assignment ##
 
 Setup:
 * [Install Terraform](https://www.terraform.io/intro/getting-started/install.html)
